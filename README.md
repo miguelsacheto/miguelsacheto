@@ -17,8 +17,8 @@
 
 ---
 
-## 🕹️ Retro Gaming Space
+## 🕹️ My Contributions Starships
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&bgColor=000000&height=160&section=header&text=Space%20Invaders&fontSize=35&animation=twinkling&theme=dark" alt="Retro Space" width="100%" />
+  <img src="https://raw.githubusercontent.com/miguelsacheto/miguelsacheto/output/github-contribution-grid-snake-dark.svg" alt="GitHub Invaders" width="100%" />
 </p>
