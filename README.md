@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **miguelsacheto.2010@gmail.com**
 
-- ⚡ Fun fact **i learn very quickly**
+- ⚡ Fun fact **i started programming this year**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
